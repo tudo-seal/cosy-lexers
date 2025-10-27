@@ -1,5 +1,3 @@
-from functools import partial
-
 from pygments.lexers.python import PythonLexer
 from pygments.token import Keyword, Name
 
