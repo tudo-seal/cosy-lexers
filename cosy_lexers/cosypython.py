@@ -17,7 +17,7 @@ class CosyPythonLexer(PythonLexer):
         "constraint",
         "parameter_constraint",
         "suffix",
-        "DSL",
+        "SpecificationBuilder",
         "Constructor",
         "CoSy",
         "Component",
