@@ -19,7 +19,7 @@ class CosyPythonLexer(PythonLexer):
         "suffix",
         "SpecificationBuilder",
         "Constructor",
-        "CoSy",
+        "Maestro",
         "Component",
         "Group",
         "DataGroup",
